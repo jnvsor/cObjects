@@ -1,3 +1,5 @@
+**Note:** At the time I originally made this, I didn't know that this was actually [how a C++ compiler implements single inheritance](http://www.altdevblogaday.com/2013/05/03/cc-low-level-curriculum-part-11-inheritance/).
+
 cObjects
 ========
 
